@@ -1,0 +1,3 @@
+Internet connection is required
+
+more functions like screenshot, reminders, etc. are yet to be added.
