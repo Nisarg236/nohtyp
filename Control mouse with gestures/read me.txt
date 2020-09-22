@@ -1,0 +1,8 @@
+install libraries then run the .py file
+
+keep the object with which you want to track mouse pointer near to the webcam
+and press i from your keyboard select the object by marking corners using clicks on it
+after the object is selected press space to start tracking
+
+the object should be of a distinct color for proper tracking and press q to quit
+the program
